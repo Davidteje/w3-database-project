@@ -2,7 +2,7 @@
 
 
 
-
+![image]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EOEFMUfmjNhkXyOGEiMSZErp4ast5cZWJw&usqp=CAU
 - Exploración y limpieza de ficheros csv:
     - actor.csv:
         - Copia del df y dimensiones originales.
@@ -61,7 +61,7 @@
 - Importación de los csv limpios a sql a través de SQLAlchemy.
 - Selección de primary keys y foreign keys -> Creación de relaciones entre las diferentes tablas a través de Workbench.
 - Ejecución de 10 queries SQL a través de SQLAlchemy. Algunos ejemplos:
-    - 
+    - Pendiente ejemplos
 - Bonus - Creación de nueva tabla 'total_renting_cost' que muestra el coste total de renting facturado por película alquilada.
 
         
