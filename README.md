@@ -4,6 +4,10 @@
 ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/descarga%20(4).jpeg)
 
 
+![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/pandas_python.png)
+![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/sqlalchemy.jpeg)
+![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/mysql-workbench.png)
+![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/descarga.png)
 
 
 PROCESO DE TRABAJO: 👨‍💻
@@ -67,9 +71,17 @@ PROCESO DE TRABAJO: 👨‍💻
 - Creación de BBDD proy_videoclub en Sql a través de SQLAlchemy y conexión a la misma.
 - Importación de los csv limpios a sql a través de SQLAlchemy.
 - Selección de primary keys y foreign keys -> Creación de relaciones entre las diferentes tablas a través de Workbench.
+    ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/Diagrama_inicial.PNG)
+
 - Ejecución de 10 queries SQL a través de SQLAlchemy. Algunos ejemplos:
-    - Pendiente ejemplos
-- Bonus - Creación de nueva tabla 'total_renting_cost' que muestra el coste total de renting facturado por película alquilada.
+    - ¿Cuáles son las 5 películas más alquiladas? 
+    ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/Query%201.png)
+    - Lista de categorías ordenadas por su ‘rental_rate’ medio:
+    ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/Query%202.png)
+    - ¿Cuáles son los 10 actores/actrices que más salen en las películas? 
+    ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/Query%203.png)  
+    - Bonus - Creación de nueva tabla 'total_renting' que muestra el coste total de renting facturado por película alquilada.
+    ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/Query%204.png)     
 
         
         
