@@ -1,6 +1,11 @@
 # W3 Project - Building mySQL Data-base
 
 
+![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/descarga%20(4).jpeg)
+
+
+
+
 PROCESO DE TRABAJO:
 1) LIMPIEZA DE DATA FRAMES:
 - Exploración y limpieza de ficheros csv:
