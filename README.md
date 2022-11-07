@@ -4,10 +4,19 @@
 ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/descarga%20(4).jpeg)
 
 
+
 ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/pandas_python.png)
 ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/sqlalchemy.jpeg)
 ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/MySQLworkbench.jpeg)
 ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/descarga.png)
+
+
+TO DO's: 
+1) Explore the data and write down what you have found, you can use: df.describe(), df["column"], etc.
+2) Clean the data (you can get rid of columns that doesn't give information)
+3) Build your databse
+4) Write at least 10 queries including: join, groupby, orderby, where, subqueries….that you think will be useful to get interesting insights from the data.(SELECT* FROM TABLE_NAME doesn't count...)
+Bonus: Get creative!!! Create totally new tables or enrich the csv files with new data (found on the internet or even made up) that makes your database more valuable.
 
 
 PROCESO DE TRABAJO: 👨‍💻
