@@ -6,8 +6,8 @@
 
 
 
-PROCESO DE TRABAJO:
-1) LIMPIEZA DE DATA FRAMES:
+PROCESO DE TRABAJO: 👨‍💻
+1) LIMPIEZA DE DATA FRAMES: 🚛
 - Exploración y limpieza de ficheros csv:
     - actor.csv:
         - Copia del df y dimensiones originales.
@@ -55,7 +55,7 @@ PROCESO DE TRABAJO:
         - Se incluye una nueva columna 'complete_name' que concatena el nombre completo de los actores.
         - Se crea nueva columna 'actor_id' relacionando el complete_name de los actores con el 'actor_id' de la tabla 'film'.
 
-- Revisión de columnas con mismos nombres en los df explorados. Conclusiones relevantes:
+- Conclusiones relevantes tras rvisión de columnas con mismos nombres en los diferentes df explorados: 👆
         - En df_inv hay 223 películas de las 1000 películas que hay en df_film.
         - En df_inv hay 1000 filas con números de inventory_id del 1 al 1000, mientras que en df_ren hay 1000 filas también, pero con números de inventory_id entre el 1 y el 4500 aprox. Sólo 212 inventory_id de df_inv se incluyen en df_ren.
         - En df_film hay 1000 filas con valores de film_id entre 1 y 1000, mientras que el df_old hay 614 film_id.
@@ -63,7 +63,7 @@ PROCESO DE TRABAJO:
         
 - Exportación de los df limpios a csv.
 
-2) CREACIÓN DE BBDD, IMPORTACIÓN DE DATOS Y QUERIES:
+2) CREACIÓN DE BBDD, IMPORTACIÓN DE DATOS Y QUERIES: 🛠
 - Creación de BBDD proy_videoclub en Sql a través de SQLAlchemy y conexión a la misma.
 - Importación de los csv limpios a sql a través de SQLAlchemy.
 - Selección de primary keys y foreign keys -> Creación de relaciones entre las diferentes tablas a través de Workbench.
