@@ -1,8 +1,8 @@
 # W3 Project - Building mySQL Data-base
 
 
-
-![image]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EOEFMUfmjNhkXyOGEiMSZErp4ast5cZWJw&usqp=CAU
+PROCESO DE TRABAJO:
+1) LIMPIEZA DE DATA FRAMES:
 - Exploración y limpieza de ficheros csv:
     - actor.csv:
         - Copia del df y dimensiones originales.
@@ -57,6 +57,8 @@
         - En df_act hay 200 actores, mientras que en df_old hay 39 actores.
         
 - Exportación de los df limpios a csv.
+
+2) CREACIÓN DE BBDD, IMPORTACIÓN DE DATOS Y QUERIES:
 - Creación de BBDD proy_videoclub en Sql a través de SQLAlchemy y conexión a la misma.
 - Importación de los csv limpios a sql a través de SQLAlchemy.
 - Selección de primary keys y foreign keys -> Creación de relaciones entre las diferentes tablas a través de Workbench.
