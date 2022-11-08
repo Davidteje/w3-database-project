@@ -86,6 +86,10 @@ PROCESO DE TRABAJO: 👨‍💻
 
 - Ejecución de 10 queries SQL a través de SQLAlchemy. Algunos ejemplos:
 
+    - ¿Cuántos títulos de películas se están alquilando?
+    
+    ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/Query%205.PNG)    
+    
     - ¿Cuáles son las 5 películas más alquiladas? 
     
     ![Image text](https://github.com/Davidteje/w3-database-project/blob/main/img/Query%201.png)
